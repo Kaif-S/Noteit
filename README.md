@@ -4,4 +4,4 @@ This note-taking app is built with Flask and Bootstrap 5 components, featuring b
 
 # For storing data
 
-I have created basic csv file like structure called """database.txt""", updating it with ""os"" library of python.
+I have created basic csv file like structure called `database.txt`, updating it with `os` library of python.
